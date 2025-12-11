@@ -88,6 +88,7 @@ Axes definitions:
 * **Z-axis:** Implied volatility
 
 This visualization highlights both the **term structure** and **moneyness dynamics** of the AAPL options market.
+![Uploading image.png…]()
 
 ---
 
