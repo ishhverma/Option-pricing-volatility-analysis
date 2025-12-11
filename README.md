@@ -1,4 +1,4 @@
-<img width="1364" height="1190" alt="image" src="https://github.com/user-attachments/assets/ae8c6105-cb8b-49d4-a791-58fe35b0a243" />
+
 # AAPL Option Pricing and Implied Volatility Analysis
 
 A comprehensive, end-to-end pipeline for **option pricing, Greek computation, implied volatility extraction, and IV surface construction** for AAPL equity options. This repository serves as a robust template for quantitative option analysis and volatility modeling.
