@@ -1,3 +1,4 @@
+<img width="2848" height="1600" alt="image" src="https://github.com/user-attachments/assets/ef7a52c9-11a2-4d41-bfce-48af4b4c6790" />
 
 # AAPL Option Pricing and Implied Volatility Analysis
 
